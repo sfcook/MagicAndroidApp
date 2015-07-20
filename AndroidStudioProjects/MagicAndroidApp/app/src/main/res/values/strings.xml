@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magic Android App</string>
+
+    <string name="title_activity_magic_phone_app">Magic Phone App</string>
+    <string name="btnShake">Shake</string>
+    <string name="instruction">Tap or shake for answer.</string>
+</resources>

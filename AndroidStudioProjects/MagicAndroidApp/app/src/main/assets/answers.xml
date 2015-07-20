@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnswerSets>
+    <AnswerSet title="Simple">
+        <Answer>Yes</Answer>
+        <Answer>No</Answer>
+        <Answer>Maybe</Answer>
+    </AnswerSet>
+    <AnswerSet title="Simple (Weighted)">
+        <Answer weight="2">Yes</Answer>
+        <Answer>No</Answer>
+        <Answer>Maybe</Answer>
+    </AnswerSet>
+    <AnswerSet title="Roshambo">
+        <Answer>Rock</Answer>
+        <Answer>Paper</Answer>
+        <Answer>Scissors</Answer>
+    </AnswerSet>
+</AnswerSets>
+
